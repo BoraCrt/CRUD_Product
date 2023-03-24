@@ -1,7 +1,10 @@
 # CRUD_Product
-This project includes basic Product CRUD Operations with MS SQL Stored Procedures , Login&Sign Up pages. 
-Crud Operations  and search on the same page and it works with modal pages . 
-Worked with Bootstrap , EF , Stored Procedures and little JS . 
+•This project includes basic Product CRUD Operations with MS SQL Stored Procedures , Login&Sign Up pages. 
+
+•Crud Operations  and search on the same page and it works with modal pages . 
+
+•Worked with Bootstrap , EF , Stored Procedures and little JS . 
+
 ![add_product_modal](https://user-images.githubusercontent.com/81222209/227519388-4d02412f-151a-423f-be88-8662bba281cd.png)
 ![basic_login](https://user-images.githubusercontent.com/81222209/227519394-bb5053b5-3695-4ae7-8a14-2711468dccb7.jpg)
 ![sign_up](https://user-images.githubusercontent.com/81222209/227519402-55512dd5-ce69-4b22-84c1-cad7f26ee002.png)
