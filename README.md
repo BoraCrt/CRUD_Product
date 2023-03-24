@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   ![basic_login](https://user-images.githubusercontent.com/81222209/227519394-bb5053b5-3695-4ae7-8a14-2711468dccb7.jpg)
-
+</p>
 <p align="center">
   ![sign_up](https://user-images.githubusercontent.com/81222209/227519402-55512dd5-ce69-4b22-84c1-cad7f26ee002.png)
 </p>
